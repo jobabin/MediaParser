@@ -1,0 +1,3 @@
+C:\Users\jobabin\source\repos\Vid_Pic_Sorter\Vid_Pic_Sorter\obj\Debug\netcoreapp3.0\Vid_Pic_Sorter.csprojAssemblyReference.cache
+C:\Users\jobabin\source\repos\Vid_Pic_Sorter\Vid_Pic_Sorter\obj\Debug\netcoreapp3.0\Vid_Pic_Sorter.AssemblyInfoInputs.cache
+C:\Users\jobabin\source\repos\Vid_Pic_Sorter\Vid_Pic_Sorter\obj\Debug\netcoreapp3.0\Vid_Pic_Sorter.AssemblyInfo.cs
